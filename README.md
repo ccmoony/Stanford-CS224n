@@ -1,2 +1,2 @@
-# Stanford_CS224n
-Stanford CS224n for NLP
+# Stanford-CS224n
+Assignments of Stanford CS224n for NLP.
