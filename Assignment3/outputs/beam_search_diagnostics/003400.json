@@ -1,0 +1,210 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁discussion",
+                "▁on",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -11.525964736938477
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁there",
+                "▁were",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "."
+            ],
+            "score": -12.092683792114258
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁there",
+                "▁were",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁questions",
+                "."
+            ],
+            "score": -12.281387329101562
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁there",
+                "▁were",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁speakers",
+                "."
+            ],
+            "score": -12.659161567687988
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁there",
+                "▁were",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "."
+            ],
+            "score": -13.735589981079102
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁there",
+                "▁were",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁discussion",
+                "▁on",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -13.840514183044434
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁there",
+                "▁were",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁questions",
+                "."
+            ],
+            "score": -13.958500862121582
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁have",
+                "▁been",
+                "▁made",
+                "."
+            ],
+            "score": -14.029759407043457
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁there",
+                "▁were",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁questions",
+                "▁on",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -14.340054512023926
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarified",
+                "▁that",
+                "▁there",
+                "▁were",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁on",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -14.452465057373047
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjQtMDctMTVUMDY6NTk6MjUuNTkyMTIzIiwgImgiOiAiQ1lKIiwgInUiOiAiQWRtaW5pc3RyYXRvciJ9"
+}

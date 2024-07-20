@@ -1,0 +1,236 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "."
+            ],
+            "score": -15.432717323303223
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -21.994359970092773
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "."
+            ],
+            "score": -22.215213775634766
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁for",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "."
+            ],
+            "score": -22.47272300720215
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -28.968984603881836
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁for",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -29.0589656829834
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁for",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -29.5018310546875
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁for",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁for",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -29.674209594726562
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁states",
+                "."
+            ],
+            "score": -29.782373428344727
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁hope",
+                "▁that",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁for",
+                "▁the",
+                "▁secretary",
+                "-",
+                "general",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁states",
+                "."
+            ],
+            "score": -29.882020950317383
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjQtMDctMTVUMDY6NTA6MzcuMjA3Mjk5IiwgImgiOiAiQ1lKIiwgInUiOiAiQWRtaW5pc3RyYXRvciJ9"
+}
