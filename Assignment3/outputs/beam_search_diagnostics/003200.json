@@ -1,0 +1,226 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarification",
+                "▁with",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁speakers",
+                "▁on",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -12.31612491607666
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarification",
+                "▁on",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁speakers",
+                "▁on",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -12.573821067810059
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarification",
+                "▁with",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁speakers",
+                "▁on",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -13.79349136352539
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarification",
+                "▁with",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁speakers",
+                "▁on",
+                "▁the",
+                "▁meeting",
+                "▁at",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -14.213553428649902
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarification",
+                "▁on",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁speakers",
+                "▁on",
+                "▁the",
+                "▁meeting",
+                "▁at",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -14.39553165435791
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁also",
+                "▁like",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁views",
+                "▁on",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -14.76054573059082
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁also",
+                "▁like",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁speakers",
+                "▁on",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -14.771328926086426
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarification",
+                "▁with",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁speakers",
+                "▁on",
+                "▁the",
+                "▁meeting",
+                "▁of",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -14.812856674194336
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁also",
+                "▁like",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁questions",
+                "▁on",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -14.844331741333008
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarification",
+                "▁on",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁speakers",
+                "▁on",
+                "▁the",
+                "▁meeting",
+                "▁of",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -14.97906494140625
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjQtMDctMTVUMDY6NTg6NTAuMTM1MzA3IiwgImgiOiAiQ1lKIiwgInUiOiAiQWRtaW5pc3RyYXRvciJ9"
+}
